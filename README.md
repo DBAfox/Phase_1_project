@@ -67,7 +67,7 @@ From here, the team split up to focus on each of the the following visualization
 
 First Danny looked at the rates of fatalities in Commercial vs Private Flights illustrated below
 
-![Level_1_Plot](.plots/Level_1.png)
+![Level_1_Plot](plots/Level_1.png)
 
 here we can see a clear trent towards Private Flights having a much lower fatality percentage
 
