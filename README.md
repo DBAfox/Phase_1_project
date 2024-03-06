@@ -23,10 +23,10 @@ Plots Folder
 
    Folder containing plots
    
-   Level 1.png
-   Level 2.png
-   Level 2 A.png 
-   Level 3.png
+   Level_1.png
+   Level_2.png
+   Level_2_A.png 
+   Level_3.png
    
 
 .gitignore
@@ -54,7 +54,7 @@ That said, we decided to base our recommendations primarily on Fatality Rate.
 
 We were provided the Avaition_data.csv dataset by our project manager and
 upon inital exploration, The team realized the data had come from the NTSB
-and most definnitions were provided on their website. We also learned that
+and most definitions were provided on their website. We also learned that
 the data was incomplete for years prior to 1993 so that was filtered immediatley.
 However out data is limited by several other factors. There is little to no
 data on international flights and we dont have any data on successful flights.
@@ -69,7 +69,8 @@ First Danny looked at the rates of fatalities in Commercial vs Private Flights i
 
 ![Level_1_Plot](plots/Level_1.png)
 
-here we can see a clear trent towards Private Flights having a much lower fatality percentage
+here we can see a clear trend towards Private Flights having a much lower fatality percentage
+
 
 
 Travis took our analysis a step further by looking at safer Private Flights by Make
@@ -78,10 +79,10 @@ Travis took our analysis a step further by looking at safer Private Flights by M
 
 we have a bit clearer of a picture starting to form but what if we include the weather as variable?
 
+![Level_2_A_Plot](plots/Level_2_A.png)
 
 now we can see that some makes are much more reliable than others even in bad weather
 
-![Level_2_A_Plot](plots/Level_2_A.png)
 
 Sam then asked maybe some regions in the US would be safe to avoid?
 
