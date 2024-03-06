@@ -74,18 +74,18 @@ here we can see a clear trent towards Private Flights having a much lower fatali
 
 Travis took our analysis a step further by looking at safer Private Flights by Make
 
-![Level_2_Plot](.plots/Level_2.png)
+![Level_2_Plot](plots/Level_2.png)
 
 we have a bit clearer of a picture starting to form but what if we include the weather as variable?
 
 
 now we can see that some makes are much more reliable than others even in bad weather
 
-![Level_2_A_Plot](.plots/Level_2_A.png)
+![Level_2_A_Plot](plots/Level_2_A.png)
 
 Sam then asked maybe some regions in the US would be safe to avoid?
 
-![Level_3_Plot](.plots/Level_3.png)
+![Level_3_Plot](plots/Level_3.png)
 
 Yes indeed! Stay over dry land!! 
 
