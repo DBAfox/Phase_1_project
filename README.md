@@ -4,7 +4,8 @@ Navigation through our repo is as follows
 
 JellyBean_Airlines.ipynb
 
-   Our jupyter notebook in which we applied our filters for data analysis and resulting plots. Includes findings and recommendations
+   Our jupyter notebook in which we applied our filters for data analysis and resulting plots. 
+   Includes findings and recommendations
 
 
 JellyBean_presentation.pptx
@@ -20,7 +21,13 @@ Data Folder
 
 Plots Folder
 
-   Folder containing resulting plots and tables in PNG format
+   Folder containing plots
+   
+   Level 1.png
+   Level 2.png
+   Level 2 A.png 
+   Level 3.png
+   
 
 .gitignore
 
@@ -35,7 +42,9 @@ Focusing more on Private Flights reduces risk of fatality by 27%
 Servicing the contiguous US reduces risk of fatality by as much as 53%
 compared to flying to US territories
 
+
 # Business Problems
+
 JellyBean Airlines is at a crossroads. The problem they face is what airplanes are the safest to invest in? 
 
 That said, we decided to base our recommendations primarily on Fatality Rate.
@@ -53,29 +62,30 @@ Our reccomendation will have to based on Domestic Flights.
 
 
 # Visualizations
+
 From here, the team split up to focus on each of the the following visualizations
 
 First Danny looked at the rates of fatalities in Commercial vs Private Flights illustrated below
 
-level 1 chart here
+![Level_1_Plot](.plots/Level_1.png)
 
 here we can see a clear trent towards Private Flights having a much lower fatality percentage
 
 
 Travis took our analysis a step further by looking at safer Private Flights by Make
 
-level 2 chart here
+![Level_2_Plot](.plots/Level_2.png)
 
 we have a bit clearer of a picture starting to form but what if we include the weather as variable?
 
 
 now we can see that some makes are much more reliable than others even in bad weather
 
-level 2-a chart here
+![Level_2_A_Plot](.plots/Level_2_A.png)
 
 Sam then asked maybe some regions in the US would be safe to avoid?
 
-level 3 chart here
+![Level_3_Plot](.plots/Level_3.png)
 
 Yes indeed! Stay over dry land!! 
 
