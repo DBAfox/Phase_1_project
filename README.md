@@ -105,11 +105,11 @@ While we are comfortable with our analysis, it is limited in that we have no met
 We would like to run another analysis for Jelly Bean Airlines usung more complete data.
 
 # Sources and Links
-[What some of the Purpose of flights mean](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ntsb.gov/safety/safety-studies/Documents/SS0101.pdf) 
+[What some of the Purpose of flights mean](https://www.ntsb.gov/safety/safety-studies/Documents/SS0101.pdf) 
 
-[or](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.faa.gov/sites/faa.gov/files/2022GASurvey-Appendix-B-Documents_04DEC2023V1.pdf) 
+[or](https://www.faa.gov/sites/faa.gov/files/2022GASurvey-Appendix-B-Documents_04DEC2023V1.pdf) 
 
-[or](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ia903102.us.archive.org/17/items/6560171-Survival-Flight-Accident-Report/6560171-Survival-Flight-Accident-Report.pdf)
+[or](https://ia903102.us.archive.org/17/items/6560171-Survival-Flight-Accident-Report/6560171-Survival-Flight-Accident-Report.pdf)
 
 [List of FAA Acronyms](https://www.proairpilot.com/faa-acronyms-list.html)
 
