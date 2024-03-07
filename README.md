@@ -7,11 +7,11 @@ Jelly_Bean_Airlines.ipynb
    Our jupyter notebook in which we applied our filters for data analysis and resulting plots. 
    Includes findings and recommendations
 
-Jelly_Bean_presentation.pdf
+Jelly_Bean_Airlines_Presentation.pdf
 
    Powerpoint Presentation for this project in pdf format
 
-Jelly_Bean_presentation.pptx
+Jelly_Bean_Airlines_Presentation.pptx
 
    Powerpoint Presentation for this project in pptx format
 
@@ -73,7 +73,6 @@ First Danny looked at the rates of fatalities in Commercial vs Private Flights i
 ![Level_1_Plot](plots/Level_1.png)
 
 here we can see a clear trend towards Private Flights having a much lower fatality percentage
-
 
 
 Travis took our analysis a step further by looking at safer Private Flights by Make
